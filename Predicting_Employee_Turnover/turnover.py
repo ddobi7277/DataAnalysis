@@ -8,7 +8,6 @@ import matplotlib.pyplot as plt
 import seaborn as sbn
 import lazypredict
 from sklearn.model_selection import train_test_split
-from sklearn.tree import DecisionTreeClassifier
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.model_selection import GridSearchCV 
 from xgboost import XGBClassifier
